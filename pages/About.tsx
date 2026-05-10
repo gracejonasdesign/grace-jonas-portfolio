@@ -15,7 +15,7 @@ export function About() {
         "Redesigned citywide map system across 54 locations. Led branded exhibition experiences including spatial planning, murals, and blueprints.",
     },
     {
-      role: "Graphic Design Assistant",
+      role: "Graphic Design Assistant≠≠≠`",
       company: "Center City District",
       period: "2018 – 2020",
       description:
